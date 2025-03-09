@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Tailwind CSS Demo</title>
+	<script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+</head>
+<body>
+	<h1 class="text-5xl italic font-extrabold text-center">This is H1</h1>
+	<h2 class="text-4xl font-black">This is H2</h2>
+	<h3 class="text-2xl font-medium">This is H3</h3>
+	 <p class="font-sans">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum soluta minus vel, voluptatum culpa eveniet blanditiis quaerat molestiae voluptatem sed quidem quos, consequatur cumque earum mollitia molestias alias harum, neque nobis perferendis cum magnam labore! Maxime est aspernatur totam, laboriosam ipsa minus, delectus ullam eligendi quae cum, voluptates nostrum? Et.</p>
+	 <p class="font-serif">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum soluta minus vel, voluptatum culpa eveniet blanditiis quaerat molestiae voluptatem sed quidem quos, consequatur cumque earum mollitia molestias alias harum, neque nobis perferendis cum magnam labore! Maxime est aspernatur totam, laboriosam ipsa minus, delectus ullam eligendi quae cum, voluptates nostrum? Et.</p>
+	 <p class="font-mono text-right">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum soluta minus vel, voluptatum culpa eveniet blanditiis quaerat molestiae voluptatem sed quidem quos, consequatur cumque earum mollitia molestias alias harum, neque nobis perferendis cum magnam labore! Maxime est aspernatur totam, laboriosam ipsa minus, delectus ullam eligendi quae cum, voluptates nostrum? Et.</p>
+	 
+</body>
+</html>
