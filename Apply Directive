@@ -1,0 +1,29 @@
+HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Tailwind CSS Demo</title>
+	<script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+	<script src="style.css"></script>
+</head>
+<body>
+     <div class="box border-black ">one</div>
+     <div class="box border-green-500">two</div>
+     <div class="box border-rose-500">three</div>
+</body>
+</html>
+
+
+
+CSS
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.box {
+   @apply bg-purple-500 text-white m-4 border-2 rounded;
+ }
